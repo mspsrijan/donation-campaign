@@ -6,7 +6,7 @@ const Home = () => {
 
   return (
     <div>
-      <div className="bg-[url('/images/donation.jpg')] bg-cover bg-center bg-white/90 bg-blend-overlay w-full">
+      <div className="bg-[url('/images/donation.png')] bg-cover bg-center bg-white/90 bg-blend-overlay w-full">
         <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-16 pt-32 lg:pt-40 pb-10 lg:pb-16">
           <h1 className="text-center text-4xl lg:text-5xl font-bold text-black">
             I Grow By Helping People In Need
