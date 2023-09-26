@@ -1,4 +1,5 @@
 import NavMenu from "./NavMenu";
+import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <div className="drawer">
@@ -24,7 +25,7 @@ const Header = () => {
           </div>
           <div>
             <img
-              src="./images/logo.png"
+              src="/images/logo.png"
               alt="Donation Campaign Logo"
               width="180"
             />

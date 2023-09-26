@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover_image": "./images/health.png",
+    "cover_image": "/images/health.png",
     "title": "Clean Water for Children",
     "category": "Health",
     "description": "Provide clean and safe drinking water to children in need. Your generous donation will make a life-changing impact. By contributing just $50, you can provide clean and safe drinking water to children in underserved communities worldwide. Access to clean water is a fundamental human right, yet millions lack this essential resource. Your support will help prevent waterborne diseases, improve sanitation, and transform lives. Together, we can ensure a brighter, healthier future for these vulnerable children and their families.",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "cover_image": "./images/education.png",
+    "cover_image": "/images/education.png",
     "title": "Good Education",
     "category": "Education",
     "description": "Support quality education for disadvantaged children by making a $75 donation today. Your contribution will empower underserved communities with access to educational resources, books, and opportunities they desperately need. Education is a powerful catalyst for positive change, and your support can break the cycle of poverty. Help children build a strong foundation for a better future through education.",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "cover_image": "./images/clothing.png",
+    "cover_image": "/images/clothing.png",
     "title": "Used Clothing Drive",
     "category": "Clothing",
     "description": "Join our community-driven initiative and make a significant impact with a $30 donation. Your support will enable us to collect gently used clothing and distribute them to individuals and families facing economic challenges. These clothes can provide warmth and dignity to those in need. By contributing, you're helping create a more compassionate and connected community.",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "cover_image": "./images/food.png",
+    "cover_image": "/images/food.png",
     "title": "Better Food for Everyone",
     "category": "Food",
     "description": "With your $60 donation, you can help ensure that nutritious food is accessible to all, regardless of their circumstances. Many families struggle to put food on the table, and your support will enable food banks and organizations to provide healthy meals to those who need it most. Let's join hands to combat hunger and improve food security for everyone in our communities. Your contribution can make a real difference in the fight against hunger.",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "cover_image": "./images/health.png",
+    "cover_image": "/images/health.png",
     "title": "Clean Water for Children",
     "category": "Health",
     "description": "Provide clean and safe drinking water to children in need. Your generous donation will make a life-changing impact. By contributing just $50, you can provide clean and safe drinking water to children in underserved communities worldwide. Access to clean water is a fundamental human right, yet millions lack this essential resource. Your support will help prevent waterborne diseases, improve sanitation, and transform lives. Together, we can ensure a brighter, healthier future for these vulnerable children and their families.",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "cover_image": "./images/education.png",
+    "cover_image": "/images/education.png",
     "title": "Good Education",
     "category": "Education",
     "description": "Support quality education for disadvantaged children by making a $75 donation today. Your contribution will empower underserved communities with access to educational resources, books, and opportunities they desperately need. Education is a powerful catalyst for positive change, and your support can break the cycle of poverty. Help children build a strong foundation for a better future through education.",
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "cover_image": "./images/clothing.png",
+    "cover_image": "/images/clothing.png",
     "title": "Used Clothing Drive",
     "category": "Clothing",
     "description": "Join our community-driven initiative and make a significant impact with a $30 donation. Your support will enable us to collect gently used clothing and distribute them to individuals and families facing economic challenges. These clothes can provide warmth and dignity to those in need. By contributing, you're helping create a more compassionate and connected community.",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "cover_image": "./images/food.png",
+    "cover_image": "/images/food.png",
     "title": "Better Food for Everyone",
     "category": "Food",
     "description": "With your $60 donation, you can help ensure that nutritious food is accessible to all, regardless of their circumstances. Many families struggle to put food on the table, and your support will enable food banks and organizations to provide healthy meals to those who need it most. Let's join hands to combat hunger and improve food security for everyone in our communities. Your contribution can make a real difference in the fight against hunger.",
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "cover_image": "./images/health.png",
+    "cover_image": "/images/health.png",
     "title": "Clean Water for Children",
     "category": "Health",
     "description": "Provide clean and safe drinking water to children in need. Your generous donation will make a life-changing impact. By contributing just $50, you can provide clean and safe drinking water to children in underserved communities worldwide. Access to clean water is a fundamental human right, yet millions lack this essential resource. Your support will help prevent waterborne diseases, improve sanitation, and transform lives. Together, we can ensure a brighter, healthier future for these vulnerable children and their families.",
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "cover_image": "./images/education.png",
+    "cover_image": "/images/education.png",
     "title": "Good Education",
     "category": "Education",
     "description": "Support quality education for disadvantaged children by making a $75 donation today. Your contribution will empower underserved communities with access to educational resources, books, and opportunities they desperately need. Education is a powerful catalyst for positive change, and your support can break the cycle of poverty. Help children build a strong foundation for a better future through education.",
@@ -111,7 +111,7 @@
   },
   {
     "id": 11,
-    "cover_image": "./images/clothing.png",
+    "cover_image": "/images/clothing.png",
     "title": "Used Clothing Drive",
     "category": "Clothing",
     "description": "Join our community-driven initiative and make a significant impact with a $30 donation. Your support will enable us to collect gently used clothing and distribute them to individuals and families facing economic challenges. These clothes can provide warmth and dignity to those in need. By contributing, you're helping create a more compassionate and connected community.",
@@ -122,7 +122,7 @@
   },
   {
     "id": 12,
-    "cover_image": "./images/food.png",
+    "cover_image": "/images/food.png",
     "title": "Better Food for Everyone",
     "category": "Food",
     "description": "With your $60 donation, you can help ensure that nutritious food is accessible to all, regardless of their circumstances. Many families struggle to put food on the table, and your support will enable food banks and organizations to provide healthy meals to those who need it most. Let's join hands to combat hunger and improve food security for everyone in our communities. Your contribution can make a real difference in the fight against hunger.",
