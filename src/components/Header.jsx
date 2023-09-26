@@ -4,7 +4,7 @@ const Header = () => {
     <div className="drawer">
       <input id="my-drawer" type="checkbox" className="drawer-toggle" />
       <div className="drawer-content flex flex-col">
-        <div className="navbar flex flex-row-reverse md:flex-row justify-between items-center py-6">
+        <div className="navbar flex flex-row-reverse md:flex-row justify-between items-center py-6 absolute">
           <div className="flex-none md:hidden">
             <label htmlFor="my-drawer" className="btn btn-square btn-ghost">
               <svg

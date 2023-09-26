@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "cover_image": "./images/health.png",
     "title": "Clean Water for Children",
     "category": "Health",
@@ -10,6 +11,7 @@
     "text_and_btn_bg_color": "#0052FF"
   },
   {
+    "id": 2,
     "cover_image": "./images/education.png",
     "title": "Good Education",
     "category": "Education",
@@ -20,6 +22,7 @@
     "text_and_btn_bg_color": "#333333"
   },
   {
+    "id": 3,
     "cover_image": "./images/clothing.png",
     "title": "Used Clothing Drive",
     "category": "Clothing",
@@ -30,6 +33,7 @@
     "text_and_btn_bg_color": "#79C23F"
   },
   {
+    "id": 4,
     "cover_image": "./images/food.png",
     "title": "Better Food for Everyone",
     "category": "Food",
@@ -40,6 +44,7 @@
     "text_and_btn_bg_color": "#F87147"
   },
   {
+    "id": 5,
     "cover_image": "./images/health.png",
     "title": "Clean Water for Children",
     "category": "Health",
@@ -50,6 +55,7 @@
     "text_and_btn_bg_color": "#0052FF"
   },
   {
+    "id": 6,
     "cover_image": "./images/education.png",
     "title": "Good Education",
     "category": "Education",
@@ -60,6 +66,7 @@
     "text_and_btn_bg_color": "#333333"
   },
   {
+    "id": 7,
     "cover_image": "./images/clothing.png",
     "title": "Used Clothing Drive",
     "category": "Clothing",
@@ -70,6 +77,7 @@
     "text_and_btn_bg_color": "#79C23F"
   },
   {
+    "id": 8,
     "cover_image": "./images/food.png",
     "title": "Better Food for Everyone",
     "category": "Food",
@@ -80,6 +88,7 @@
     "text_and_btn_bg_color": "#F87147"
   },
   {
+    "id": 9,
     "cover_image": "./images/health.png",
     "title": "Clean Water for Children",
     "category": "Health",
@@ -90,6 +99,7 @@
     "text_and_btn_bg_color": "#0052FF"
   },
   {
+    "id": 10,
     "cover_image": "./images/education.png",
     "title": "Good Education",
     "category": "Education",
@@ -100,6 +110,7 @@
     "text_and_btn_bg_color": "#333333"
   },
   {
+    "id": 11,
     "cover_image": "./images/clothing.png",
     "title": "Used Clothing Drive",
     "category": "Clothing",
@@ -110,6 +121,7 @@
     "text_and_btn_bg_color": "#79C23F"
   },
   {
+    "id": 12,
     "cover_image": "./images/food.png",
     "title": "Better Food for Everyone",
     "category": "Food",
