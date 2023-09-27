@@ -41,7 +41,7 @@ const Donation = () => {
             onClick={toggleShowAll}
             className="btn text-white bg-[#0052FF] hover:bg-[#0052FF]/80"
           >
-            Show All
+            See All
           </button>
         )}
       </div>
