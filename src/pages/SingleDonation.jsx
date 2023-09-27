@@ -18,9 +18,9 @@ const SingleDonation = () => {
     if (!savedDonations.includes(id)) {
       savedDonations.push(id);
       localStorage.setItem("donations", JSON.stringify(savedDonations));
-      toast(`Thanks! You have successfully donated ${price}.`);
+      toast.success(`Thanks! You have successfully donated ${price}.`);
     } else {
-      toast("You have already donated.");
+      toast.error("You have already donated.");
     }
   };
 
