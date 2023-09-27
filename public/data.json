@@ -19,7 +19,7 @@
     "price": "$75",
     "category_bg_color": "#ff444a33",
     "card_bg_color": "#ff444a26",
-    "text_and_btn_bg_color": "#333333"
+    "text_and_btn_bg_color": "#FF444A"
   },
   {
     "id": 3,
@@ -63,7 +63,7 @@
     "price": "$75",
     "category_bg_color": "#ff444a33",
     "card_bg_color": "#ff444a26",
-    "text_and_btn_bg_color": "#333333"
+    "text_and_btn_bg_color": "#FF444A"
   },
   {
     "id": 7,
@@ -107,7 +107,7 @@
     "price": "$75",
     "category_bg_color": "#ff444a33",
     "card_bg_color": "#ff444a26",
-    "text_and_btn_bg_color": "#333333"
+    "text_and_btn_bg_color": "#FF444A"
   },
   {
     "id": 11,
